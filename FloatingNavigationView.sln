@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingNavigationView", "FloatingNavigationView\FloatingNavigationView.csproj", "{8BBB8752-EC86-4161-B79E-166DF3F9EBCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{5EB7C0B1-5B9B-403A-8FBC-85EA50C6D548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBB8752-EC86-4161-B79E-166DF3F9EBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBB8752-EC86-4161-B79E-166DF3F9EBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBB8752-EC86-4161-B79E-166DF3F9EBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBB8752-EC86-4161-B79E-166DF3F9EBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB7C0B1-5B9B-403A-8FBC-85EA50C6D548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB7C0B1-5B9B-403A-8FBC-85EA50C6D548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB7C0B1-5B9B-403A-8FBC-85EA50C6D548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB7C0B1-5B9B-403A-8FBC-85EA50C6D548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
